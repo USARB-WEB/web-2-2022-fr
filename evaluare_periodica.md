@@ -11,7 +11,7 @@
   > Ex: Pentru clasa Designer, clasa părinte va fi Employee
 7. Creați o clasă înrudită cu clasa din varianta pe care o aveți, iar codul care le este comun, va fi transferat în clasa părinte abstractă (2p)
   > Ex: Pentru clasa Designer, clasa înrudită va fi Programmer
-8. De realizat un scenariu care va conține cel puțin 10 de operații (5p)
+8. De realizat un scenariu care va conține cel puțin 10 operații (5p)
   > Ex: 
   > + creăm un Programmer cu salariul 1200, regim de lucru 8 ore
   > + creăm un Designer cu salariul 1000, regim de lucru 8 ore
