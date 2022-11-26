@@ -2,7 +2,7 @@
 1. Creați un repositoriu privat ``task261122`` și deschideți acces pentru ``sergiuchilat`` **(1p)**
 2. Creați o clasă(conform variantei) cu cîte o proprietate: publică, protejată și privată (2p)
 3. Creați getterii și setterii necesari pentru a face posibil accesul la toate proprietățile clasei (2p)
-4. Rescrieți metoda toString a clasei, pentru a afișa toate proprietățile clasei în format ``JSON`` (1p)
+4. De scris o metoda publica care va afișa toate proprietățile clasei în format ``JSON`` (1p)
 5. Adăugați în clasă 3 constructori(vor fi diferențiați după numărul de parametrii sau după tipul lor de date) (1p)
   
   > Ex: Designer cu salariul 1000, Designer cu salariul 1000 și regim de lucru fulltime, Designer la care nu este specificat salariul sau regimul de lucru.
